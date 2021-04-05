@@ -4,7 +4,7 @@
 
 ## About
 
-Clusters identifies clusters in data using the k-means algorithm implemented in JavaScript. For more on K-means, check out this <a href="http://cs229.stanford.edu/notes/cs229-notes7a.pdf">blog post.</a>
+Cluster mengidentifikasi cluster dalam data menggunakan algoritme k-means yang diterapkan di JavaScript. Untuk lebih lanjut tentang K-means, lihat posting blog ini., check out this <a href="http://cs229.stanford.edu/notes/cs229-notes7a.pdf">blog post.</a>
 
 ## Installation
 
